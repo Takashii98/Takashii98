@@ -1,5 +1,4 @@
 - </> Hi, I’m @Takashii98
-- </> I’m interested in Coding Bots for different Systems like Discord/Telegram/Whatsapp
 - </> I work as a Software Developer in Germany
 - </> I’m currently learning C#
 
