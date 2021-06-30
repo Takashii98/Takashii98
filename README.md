@@ -1,6 +1,6 @@
 - </> Hi, I’m @Takashii98
-- </> I work as a Software Developer in Germany
-- </> I’m currently learning C#
+- </> I work as a Software Developer 
+
 
 
 <!---
