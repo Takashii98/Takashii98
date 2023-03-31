@@ -1,5 +1,5 @@
 - </> Hi, I’m @Takashii98
-- </> I work as a Software Developer 
+
 
 
 
